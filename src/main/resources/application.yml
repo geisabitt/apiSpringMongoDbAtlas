@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://testesgeisabitt:testes@testesgeisabitt.8q50t73.mongodb.net
+      database: Curso
